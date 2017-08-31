@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -20,6 +20,7 @@ namespace Movie_rental
         {
             cusNIC = n;
             InitializeComponent();
+			MessageBox.Show("Hello ");
         }
 
         private void btn_add_Click(object sender, EventArgs e)
