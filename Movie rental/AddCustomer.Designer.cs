@@ -178,7 +178,7 @@
             // 
             this.txt_nic.Enabled = false;
             this.txt_nic.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txt_nic.Location = new System.Drawing.Point(427, 83);
+            this.txt_nic.Location = new System.Drawing.Point(386, 80);
             this.txt_nic.Name = "txt_nic";
             this.txt_nic.Size = new System.Drawing.Size(93, 25);
             this.txt_nic.TabIndex = 5;
