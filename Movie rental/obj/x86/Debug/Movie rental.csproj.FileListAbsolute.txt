@@ -386,3 +386,8 @@ C:\Users\punulk\OneDrive - IFS\Desktop\Mega Movies\3.2\Movie rental\Movie rental
 C:\Users\punulk\OneDrive - IFS\Desktop\Mega Movies\3.2\Movie rental\Movie rental\obj\x86\Debug\Movie rental.csproj.ResolveComReference.cache
 C:\Users\punulk\OneDrive - IFS\Desktop\Mega Movies\3.2\Movie rental\Movie rental\obj\x86\Debug\Movie rental.exe
 C:\Users\punulk\OneDrive - IFS\Desktop\Mega Movies\3.2\Movie rental\Movie rental\obj\x86\Debug\Movie rental.pdb
+C:\Users\punulk\OneDrive - IFS\Desktop\Mega Movies\3.2\Movie rental\Movie\Movie rental\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\punulk\OneDrive - IFS\Desktop\Mega Movies\3.2\Movie rental\Movie\Movie rental\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\punulk\OneDrive - IFS\Desktop\Mega Movies\3.2\Movie rental\Movie\Movie rental\obj\x86\Debug\Movie rental.csproj.ResolveComReference.cache
+C:\Users\punulk\OneDrive - IFS\Desktop\Mega Movies\3.2\Movie rental\Movie\Movie rental\obj\x86\Debug\Movie rental.exe
+C:\Users\punulk\OneDrive - IFS\Desktop\Mega Movies\3.2\Movie rental\Movie\Movie rental\obj\x86\Debug\Movie rental.pdb
