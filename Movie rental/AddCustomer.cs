@@ -21,6 +21,7 @@ namespace Movie_rental
             cusNIC = n;
             InitializeComponent();
 			MessageBox.Show("Hello maduka ");
+			cfsldjdkjh
         }
 
         private void btn_add_Click(object sender, EventArgs e)
